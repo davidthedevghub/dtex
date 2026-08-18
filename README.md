@@ -1,0 +1,2 @@
+# dtex
+Architecture exercise submission
